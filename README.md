@@ -75,10 +75,10 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=MRBG18&show_icons=true&theme=react&hide_border=true" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRBG18&layout=compact&theme=react&hide_border=true" />
-</p>
+</p> -->
 
 ### 📈 Contribution Graph
 
