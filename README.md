@@ -18,8 +18,6 @@
 
 ---
 
-<!-- ================== CONNECT ================== -->
-
 ### 🔗 Connect With Me
 
 <p align="center">
@@ -31,60 +29,52 @@
 
 ---
 
-<!-- ================== ABOUT ================== -->
-
 ## 👨‍💻 About Me
 
-- 🎓 BCA Student — Building skills brick by brick
-- 🤖 Love experimenting with ML, AI & Data Automation
-- 💡 Strong at **Logic, Debugging & Problem Solving**
-- 📈 Building AI-based real-world projects
-- 🔥 Vision → Become a professional **AI Engineer**
+- 🎓 BCA Student — learning & building daily
+- 🤖 ML + AI developer exploring real-world applications
+- 🧠 Strong in **Logic, Debugging, Problem Solving**
+- 🔥 Working on ML models & automation scripts
+- 🎯 Goal → Become a skilled **AI Engineer**
 
 ---
-
-<!-- ================== SKILLS ================== -->
 
 ## 🛠 Skills & Tech Stack
 
-### 🚀 Programming & Core
+### 💻 Programming
 <p><img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" height="45" /></p>
 
-### 🤖 Machine Learning & Data
+### 🤖 ML & Data Science
 <p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" height="45" /></p>
 
-### 🌐 Development / Database
+### 🌐 Web / Database
 <p><img src="https://skillicons.dev/icons?i=html,css,react,mysql,php" height="45" /></p>
 
-### ⚙️ Tools & Workflow
+### ⚙ Tools
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" height="45" /></p>
 
 ---
-
-<!-- ================== PROJECTS ================== -->
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧠 AI-ML Mini Models | Regression, Classification, Predictive ML | Python, sklearn |
+| 🧠 AI/ML Mini Models | Regression, Classification, Predictive ML | Python, sklearn |
 | 📊 Data Science Portfolio | EDA, visualization, insights | Pandas, Matplotlib |
-| 🤖 Automation Scripts | Daily-task automation tools | Python + APIs |
+| 🤖 Automation Scripts | Routine task automation | Python + APIs |
 
-📌 More here → 🔗 **https://github.com/bgbapu?tab=repositories**
+🔗 More projects → https://github.com/bgbapu?tab=repositories
 
 ---
 
-<!-- ================== GITHUB ANALYTICS ================== -->
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=bgbapu&show_icons=true&theme=react&hide_border=true" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgbapu&layout=compact&theme=react&hide_border=true" />
 </p>
 
-### 🔥 Activity Graph
+### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bgbapu&theme=react-dark&hide_border=true&area=true" />
@@ -92,31 +82,19 @@
 
 ---
 
-<!-- ================== SNAKE ================== -->
+## 🧩 Strengths
 
-## 🐍 Contribution Snake Animation
+✔ Logical Thinker  
+✔ Debugging & Optimization  
+✔ Quick Learning Ability  
+✔ Consistent Improvement  
 
-> Place workflow inside → `.github/workflows/snake.yml`
+---
 
-```yml
-name: Snake
-on:
-  schedule: 
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+## 💭 Quote
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: bgbapu
-          outputs: |
-            dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> **"Solve. Code. Learn. Repeat — Growth is daily."**
+
+---
+
+<p align="center"><b>⭐ If you like my work — give a star! ⭐</b></p>
