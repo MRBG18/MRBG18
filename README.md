@@ -57,9 +57,7 @@
 <p><img src="https://skillicons.dev/icons?i=html,css,react,mysql,php" height="45" /></p>
 
 ### ⚙ Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,intellij,linux,anaconda,visualstudio" height="45" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,anaconda,intellij" height="45" /></p>
 
 ---
 
