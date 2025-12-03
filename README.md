@@ -1,102 +1,86 @@
-<h1 align="center">✨ Bhargav Gondaliya ✨</h1>
+<!-- ========================== HEADER =============================== -->
+
+<h1 align="center">👋 Hi, I'm <strong>Bhargav Gondaliya</strong></h1>
+<p align="center">
+  🔥 <b>BCA Student | AI & ML Enthusiast | Python Developer | Problem Solver</b>  
+  🚀 Passionate about building intelligent systems using Machine Learning & Automation  
+  💡 Learning → Building → Improving → Repeating  
+</p>
 
 <p align="center">
-  <strong>AI/ML Engineer • Python Developer • Problem Solver • Curious Innovator</strong><br>
-  <em>I turn data into decisions, code into solutions & ideas into real products.</em>
+  <a href="https://github.com/bgbapu"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/bhargav-gondaliya-22063a363/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://instagram.com/bg_bapu_99"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge"/></a>
 </p>
+
+---
+
+## 🔥 About Me
+
+- 🎓 BCA Student & aspiring **AI/ML Engineer**
+- 🧠 Focused on **Logic Building • Problem Solving • Clean Code**
+- 🔍 Exploring **Machine Learning, Deep Learning & Data Analysis**
+- ⚡ Building real-world ML based projects
+
+---
+
+## 🛠 Tech Stack
+
+| Languages | Tools | AI/ML |
+|---|---|---|
+| Python • C • Java • HTML/CSS | Git • VS Code • PyCharm • Linux | Pandas • NumPy • Matplotlib • Scikit-Learn • SQL |
+| JavaScript (learning) | API/Automation | ML Projects • Data Visualization |
+
+---
+
+## 📌 Projects
+
+| Project | Tech | Status |
+|---|---|---|
+| 🧠 ML House Price Prediction | Python, Pandas, Sklearn | 🔥 Uploading Soon |
+| 🤖 Automation + AI Toolkit | Python, NLP | 🔥 In Build |
+| 📈 Salary Prediction Model | ML Regression | ✔ Ready (Private) |
+| 🐍 Python CLI Utility Pack | Python Scripts | 🚧 In Progress |
+
+> More will be uploaded soon — stay tuned! 🚀
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRBG18&label=Profile+Views&color=blue&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/MRBG18?style=social" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-red" />
-  <img src="https://img.shields.io/badge/Code-Python%20|%20ML%20|%20Git-green" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bgbapu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgbapu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🐍 Contribution Snake Animation
 
-- 🔭 Working on **AI + Machine Learning Projects**
-- 🌱 Learning **Deep Learning, NLP, Deployment**
-- 🎯 Strong Areas: **Problem Solving | Clean Code | Logical Thinking**
-- 📫 Reach Me: **bhargavbapu99@gmail.com**
-- ⚡ Hobbies: **Cricket 🏏 | Gaming 🎮 | Experimenting with AI 🤖**
+### 📍 Step-1 → Create file  
+`/.github/workflows/snake.yml`
 
----
+```yaml
+name: Generate Snake
 
-## 🔗 Connect With Me
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/bhargav-gondaliya-22063a363?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
-</a>
-<a href="https://instagram.com/bg_bapu_99" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-%23E1306C?logo=instagram&style=for-the-badge"/>
-</a>
-<a href="https://github.com/MRBG18" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge"/>
-</a>
-</p>
-
----
-
-## 🛠 Skills & Technologies
-
-### 🚀 Languages
-<p><img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" height="45" /></p>
-
-### 📊 Machine Learning & Data
-<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" height="45" /></p>
-
-### 🌐 Web & Database
-<p><img src="https://skillicons.dev/icons?i=html,css,react,mysql,php" height="45" /></p>
-
-### ⚙ Tools & Workflow
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" /></p>
-
----
-
-## 🎯 Featured Projects (Pinned)
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔥 AI-ML Mini Projects | Small practical ML models & notebooks | Python, ML |
-| 📊 Data Science Portfolio | EDA, preprocessing, insights, viz | Pandas, Matplotlib |
-| 🤖 Automation Scripts | Automating tasks using Python | Python, APIs |
-
-> More projects & repos coming soon...
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MRBG18&show_icons=true&theme=tokyonight" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRBG18&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-## ⚡ Contributions & Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRBG18&theme=tokyo-night" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MRBG18/MRBG18/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 💡 Quote to Live By
-
-> **"Solve problems, write code, repeat — progress is built daily."**
-
----
-
-⭐ If you like my work, don't forget to **Star the repos — It motivates me!** 🌟  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@master
+        with:
+          github_user_name: bgbapu
+          outputs: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
