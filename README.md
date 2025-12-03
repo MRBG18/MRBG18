@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhargavbapu99@gmail.com**
 
-- ⚡ Fun fact **Me**
+- ⚡ Hobby **Cricket & Gamming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
