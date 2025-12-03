@@ -70,7 +70,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=bgbapu&show_icons=true&theme=react&hide_border=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MRBG18&show_icons=true&theme=react&hide_border=true" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgbapu&layout=compact&theme=react&hide_border=true" />
 </p>
 
