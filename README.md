@@ -1,23 +1,102 @@
-<h1 align="center">Hi 👋, I'm Bhargav Gondaliya</h1>
-<h3 align="center">A passionate AI-ML engineer from India</h3>
+<h1 align="center">✨ Bhargav Gondaliya ✨</h1>
 
-
-
-- 🌱 I’m currently learning **AI-ML,PYTHON,GIT-GITHUB**
-
-- 👨‍💻 All of my projects are available at [https://github.com//MRBG18/](https://github.com//MRBG18/)
-
-- 📫 How to reach me **bhargavbapu99@gmail.com**
-
-- ⚡ Hobby **Cricket & Gamming**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bg_bapu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bg_bapu_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhargav gondaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargav gondaliya" height="30" width="40" /></a>
-<a href="https://instagram.com/bg_bapu_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bg_bapu_18" height="30" width="40" /></a>
+<p align="center">
+  <strong>AI/ML Engineer • Python Developer • Problem Solver • Curious Innovator</strong><br>
+  <em>I turn data into decisions, code into solutions & ideas into real products.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MRBG18&label=Profile+Views&color=blue&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/MRBG18?style=social" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-red" />
+  <img src="https://img.shields.io/badge/Code-Python%20|%20ML%20|%20Git-green" />
+</p>
 
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Working on **AI + Machine Learning Projects**
+- 🌱 Learning **Deep Learning, NLP, Deployment**
+- 🎯 Strong Areas: **Problem Solving | Clean Code | Logical Thinking**
+- 📫 Reach Me: **bhargavbapu99@gmail.com**
+- ⚡ Hobbies: **Cricket 🏏 | Gaming 🎮 | Experimenting with AI 🤖**
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bhargav-gondaliya-22063a363?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
+</a>
+<a href="https://instagram.com/bg_bapu_99" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-%23E1306C?logo=instagram&style=for-the-badge"/>
+</a>
+<a href="https://github.com/MRBG18" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+## 🛠 Skills & Technologies
+
+### 🚀 Languages
+<p><img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" height="45" /></p>
+
+### 📊 Machine Learning & Data
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" height="45" /></p>
+
+### 🌐 Web & Database
+<p><img src="https://skillicons.dev/icons?i=html,css,react,mysql,php" height="45" /></p>
+
+### ⚙ Tools & Workflow
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" /></p>
+
+---
+
+## 🎯 Featured Projects (Pinned)
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔥 AI-ML Mini Projects | Small practical ML models & notebooks | Python, ML |
+| 📊 Data Science Portfolio | EDA, preprocessing, insights, viz | Pandas, Matplotlib |
+| 🤖 Automation Scripts | Automating tasks using Python | Python, APIs |
+
+> More projects & repos coming soon...
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MRBG18&show_icons=true&theme=tokyonight" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRBG18&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## ⚡ Contributions & Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRBG18&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MRBG18/MRBG18/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 💡 Quote to Live By
+
+> **"Solve problems, write code, repeat — progress is built daily."**
+
+---
+
+⭐ If you like my work, don't forget to **Star the repos — It motivates me!** 🌟  
