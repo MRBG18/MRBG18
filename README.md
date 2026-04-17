@@ -1,107 +1,255 @@
-<!-- ======================================================= -->
-<!--          ✨  BHARGAV GONDALIYA - FINAL README  ✨         -->
-<!-- ======================================================= -->
+<!-- ============================================================ -->
 
-<h1 align="center">👋 Hey, I'm <strong>Bhargav Gondaliya</strong></h1>
-<h3 align="center">AI/ML Engineer | Python Developer | Problem Solver | Curious Innovator</h3>
+<!--              BHARGAV GONDALIYA — GITHUB PROFILE             -->
 
-<p align="center">
-  I turn <b>data into decisions</b> • <b>ideas into real projects</b> • <b>code into solutions</b><br>
-  Passionate about <b>Machine Learning, Deep Learning & Real-world AI Applications</b>  
+<!-- ============================================================ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:020024,40:090979,100:00d4ff&height=180&section=header&text=Bhargav%20Gondaliya&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=78&descSize=16&animation=twinkling"/>
+
+<br/>
+
+<div align="center">
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Turning+data+into+decisions+%F0%9F%A7%A0;Building+intelligent+systems+%F0%9F%A4%96;ML+%7C+Deep+Learning+%7C+NLP+%7C+Automation;Open+for+work+%E2%80%94+let%27s+build+something+great" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MRBG18&label=Profile+Views&color=00d4ff&style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Open%20For%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Python-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/Based%20In-India%20🇮🇳-138808?style=flat-square"/>
+
+</div>
+
+-----
+
+## ◉ Who Am I
+
+```python
+class BhargavGondaliya:
+
+    name       = "Bhargav Gondaliya"
+    role       = "AI / ML Engineer"
+    education  = "BCA Student — Building Daily"
+    location   = "India 🇮🇳"
+
+    focus      = ["Machine Learning", "Deep Learning", "NLP", "Automation"]
+    strengths  = ["Logical Thinking", "Debugging", "Fast Learning", "Clean Code"]
+    goal       = "Become a world-class AI Engineer"
+
+    currently  = {
+        "learning"  : "Advanced ML, Neural Networks, LLMs",
+        "building"  : "Real-world AI systems",
+        "exploring" : "Agentic AI & Automation Pipelines"
+    }
+
+    motto = "Solve. Code. Learn. Repeat."
+```
+
+-----
+
+## ◉ Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/MRBG18">
+  <img src="https://img.shields.io/badge/GitHub-MRBG18-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/bhargav-gondaliya-22063a363">
+  <img src="https://img.shields.io/badge/LinkedIn-Bhargav%20Gondaliya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:bhargavgondaliya999@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bhargavgondaliya999-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/bg_bapu_99">
+  <img src="https://img.shields.io/badge/Instagram-bg__bapu__99-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+-----
+
+## ◉ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,cs&theme=dark" height="48"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRBG18&label=Profile+Visitors&color=blue&style=flat" />
-  <img src="https://img.shields.io/badge/Open%20For%20Work-Yes-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Python-red?style=flat" />
+### AI / ML / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="48"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
 </p>
 
----
+### Web / Mobile / Database
 
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/MRBG18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/bhargav-gondaliya-22063a363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:bhargavgondaliya999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://instagram.com/bg_bapu_99"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,mysql,php,androidstudio&theme=dark" height="48"/>
 </p>
 
----
+### Tools & Environment
 
-## 👨‍💻 About Me
-
-- 🎓 BCA Student — learning & building daily  
-- 🤖 ML + AI developer exploring real-world applications  
-- 🧠 Strong in **Logic, Debugging & Problem Solving**  
-- ⚙ Loves automation, analytics & intelligent systems  
-- 🎯 Goal → Become a skilled **AI Engineer**  
-
----
-
-## 🛠 Skills & Tech Stack
-
-### 💻 Programming
-<p><img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,cs" height="45" /></p>
-
-### 📱 Mobile Development
-<p><img src="https://skillicons.dev/icons?i=androidstudio" height="45" /></p>
-
-### 🤖 ML & Data Science
-<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" height="45" /></p>
-
-### 🌐 Web / Database
-<p><img src="https://skillicons.dev/icons?i=html,css,react,mysql,php" height="45" /></p>
-
-### ⚙ Tools & Environment
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,anaconda" height="45" /></p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧠 AI/ML Mini Models | Regression, Classification, Prediction | Python, sklearn |
-| 📊 Data Science Portfolio | EDA, visualization, insights | Pandas, Matplotlib |
-| 🤖 Automation Scripts | Task automation & utilities | Python + APIs |
-
-🔗 More Projects → https://github.com/MRBG18?tab=repositories
-
----
-
-## 📊 GitHub Analytics
-
-<!--<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MRBG18&show_icons=true&theme=react&hide_border=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRBG18&layout=compact&theme=react&hide_border=true" />
-</p>-->
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRBG18&theme=react-dark&hide_border=true&area=true" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,anaconda&theme=dark" height="48"/>
 </p>
 
----
+-----
+
+## ◉ Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 ORION X — AI Assistant
+
+**Full-stack autonomous AI assistant**
+
+- PySide6 GUI + CLI + Voice control
+- TF-IDF + Logistic Regression intent engine
+- spaCy NER + rule-based extraction
+- 10+ modules: ML predictions, NLP, automation
+
+`Python` `PySide6` `scikit-learn` `spaCy` `NLP`
+
+[![View](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/MRBG18)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 ML Prediction Models
+
+**Regression & Classification systems**
+
+- Marks predictor (study hours → score)
+- Salary estimator (experience → CTC)
+- Email spam classifier
+- Sentiment analysis pipeline
+
+`Python` `scikit-learn` `Pandas` `Matplotlib`
+
+[![View](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/MRBG18?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Automation Scripts
+
+**Smart task automation & utilities**
+
+- System-level app control
+- File discovery & management
+- Web automation (Google + YouTube)
+- Reminder & scheduling systems
+
+`Python` `APIs` `Subprocess` `JSON`
+
+[![View](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/MRBG18?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Android Development
+
+**Mobile applications**
+
+- Built with Android Studio
+- Java / Kotlin based projects
+- UI/UX focused apps
+- API integration & local storage
+
+`Java` `Android Studio` `XML`
+
+[![View](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/MRBG18?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+-----
+
+## ◉ GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRBG18&theme=react-dark&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff" width="100%"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MRBG18&show_icons=true&theme=react&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRBG18&layout=compact&theme=react&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d1117"/>
+
+</div>
+
+-----
+
+## ◉ What I Bring
+
+<div align="center">
+
+|Trait                  |Detail                                             |
+|:---------------------:|---------------------------------------------------|
+|🧠 **Logical Thinking** |Break complex problems into clean, solvable steps  |
+|🐛 **Debugging**        |Systematic approach — find root cause, fix fast    |
+|⚡ **Fast Learning**    |Pick up new tools, frameworks, and concepts quickly|
+|🔁 **Consistent Growth**|Every project is better than the last              |
+|🤝 **Communication**    |Clear code, clear documentation, clear thinking    |
+
+</div>
+
+-----
+
+## ◉ Current Focus
+
+```
+2025 Learning Path
+──────────────────────────────────────────────────
+ ██████████████████░░░░   Advanced ML & DL        78%
+ ████████████████░░░░░░   NLP & LLMs              68%
+ ██████████████░░░░░░░░   Agentic AI Systems      60%
+ ████████████░░░░░░░░░░   Cloud & MLOps           50%
+ ██████████░░░░░░░░░░░░   System Design           42%
+──────────────────────────────────────────────────
+```
+
+-----
+
+## ◉ Developer Philosophy
+
+<div align="center">
 
 
+> *“Every system that thinks was first built by someone who thought deeply.*
+> *Code is not just syntax — it’s intention, architecture, and craft.”*
+> 
+> — **Bhargav Gondaliya**
 
----
+</div>
 
-## 🧩 Strengths
+-----
 
-✔ Logical Thinker  
-✔ Debugging & Optimization  
-✔ Quick Learning Ability  
-✔ Consistent Improvement  
+<div align="center">
 
----
+<br/>
 
-## 💭 Quote
+**If my work resonates — drop a ⭐ on a repo. It genuinely means a lot.**
 
-> **"Solve. Code. Learn. Repeat — Growth is daily."**
+<br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=100&section=footer"/>
 
-<p align="center"><b>⭐ If you like my work — give a star! ⭐</b></p>
+</div>
