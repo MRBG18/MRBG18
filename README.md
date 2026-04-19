@@ -10,6 +10,7 @@
 
 <div align="center">
 
+
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Turning+data+into+decisions+%F0%9F%A7%A0;Building+intelligent+systems+%F0%9F%A4%96;ML+%7C+Deep+Learning+%7C+NLP+%7C+Automation;Open+for+work+%E2%80%94+let%27s+build+something+great" alt="Typing SVG" />
 </a>
