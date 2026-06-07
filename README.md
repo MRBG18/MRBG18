@@ -181,22 +181,7 @@ class BhargavGondaliya:
 
 </div>
 
------
 
-## ◉ GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRBG18&theme=react-dark&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff" width="100%"/>
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MRBG18&show_icons=true&theme=react&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRBG18&layout=compact&theme=react&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d1117"/>
-
-</div>
-
------
 
 ## ◉ What I Bring
 
