@@ -61,8 +61,8 @@ class BhargavGondaliya:
 <a href="https://www.linkedin.com/in/bhargav-gondaliya-22063a363">
   <img src="https://img.shields.io/badge/LinkedIn-Bhargav%20Gondaliya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:bhargavbapu99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bhargavbapu99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:bhargav.j.gondaliya@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bhargav.j.gondaliya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://instagram.com/bg_bapu_11">
   <img src="https://img.shields.io/badge/Instagram-bg__bapu__11-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
