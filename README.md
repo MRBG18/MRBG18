@@ -236,6 +236,7 @@ class BhargavGondaliya:
 
 <br/>
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=100&section=footer"/>
 
 </div>
