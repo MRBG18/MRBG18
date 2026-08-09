@@ -41,7 +41,7 @@ identity:
   role: "AI/ML Engineer · Software Engineer · AI Systems Engineer"
   education:
     current: "MCA @ D Y Patil International University, Pune"
-    foundation: "BCA @ BKNMU, Junagadh — 8.68 CGPA"
+    foundation: "BCA @ BKNMU, Junagadh"
   based_in: "India 🇮🇳"
 
 built:
