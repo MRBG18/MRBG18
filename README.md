@@ -65,9 +65,12 @@ engineering_principle:
 ```
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Dual energy tracks" />
+</p>
 
 ### 🌐 CONNECT
-
+<br>
 <p align="center">
   <a href="https://github.com/MRBG18"><img src="https://img.shields.io/badge/GitHub-MRBG18-0D0F14?style=for-the-badge&logo=github&logoColor=7DDEC4"/></a>
   <a href="https://www.linkedin.com/in/bhargav-gondaliya-22063a363"><img src="https://img.shields.io/badge/LinkedIn-Bhargav%20Gondaliya-0B3D5C?style=for-the-badge&logo=linkedin&logoColor=7DDEC4"/></a>
