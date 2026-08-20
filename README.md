@@ -23,11 +23,11 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" width="100%" alt="Data capsule" />
+  <img src="https://raw.githubusercontent.com/MRBG18/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" width="100%" alt="Data capsule" />
 </p>
 <!-- CYBER DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="Cyber divider" />
+  <img src="https://raw.githubusercontent.com/MRBG18/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="Cyber divider" />
 </p>
 
 
@@ -66,7 +66,7 @@ engineering_principle:
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Dual energy tracks" />
+  <img src="https://raw.githubusercontent.com/MRBG18/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Dual energy tracks" />
 </p>
 
 ### 🌐 CONNECT
@@ -78,7 +78,7 @@ engineering_principle:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Dual energy tracks" />
+  <img src="https://raw.githubusercontent.com/MRBG18/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Dual energy tracks" />
 </p>
 
 ---
@@ -209,9 +209,8 @@ Programming Language · Compiler Architecture · Interpreter Design
 </table>
 
 ---
-<!-- CYBER DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="Cyber divider" />
+  <img src="https://raw.githubusercontent.com/MRBG18/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="Cyber divider" />
 </p>
 
 ### 🚀 FLAGSHIP PROJECTS
@@ -377,7 +376,7 @@ Programming Language · Compiler Architecture · Interpreter Design
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Dual energy tracks" />
+  <img src="https://raw.githubusercontent.com/MRBG18/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Dual energy tracks" />
 </p>
 
 ## 💼 Experience
@@ -424,7 +423,7 @@ Programming Language · Compiler Architecture · Interpreter Design
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%" alt="Mirrored cyber" />
+  <img src="https://raw.githubusercontent.com/MRBG18/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%" alt="Mirrored cyber" />
 </p>
 
 ---
